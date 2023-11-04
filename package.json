@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native": "^0.72.1",
+    "tw-elements-react": "^1.0.0-alpha1"
+  }
+}
